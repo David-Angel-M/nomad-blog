@@ -82,6 +82,12 @@ class PostUpdate(LoginRequiredMixin, SuccessMessageMixin, UpdateView):
         return self.model.objects.filter(user=self.request.user)
 
 
+class PostDelete(LoginRequiredMixin, DeleteView):
+    model = Post
+    context_object_name = 'post'
+    success_url = reverse_lazy('posts')
+
+
 class PostList(ListView):
     model = Post
     fields = '__all__'
@@ -97,6 +103,7 @@ class PostDetail(DetailView):
     fields = '__all__'
     template_name = 'base/post_detail.html'
     context_object_name = 'post'
+
 
 class AddCommentView(CreateView):
     model = Comment

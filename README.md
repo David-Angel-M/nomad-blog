@@ -35,15 +35,15 @@ As a As a site register user, I want to be able to log in to the application in 
 ###  6.3 Home
 As a site user, I want to be able to log in to the application in order to publish or update posts. [Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_3_Home.png)
 
-###  6.4 Post List for Logged-in Users
-As a site user, I want to be able to view the posts that I create for update or view the post. [Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_6_Post%20List%20for%20Logged-in.png)
-
-###  6.5 Filter Category for Non-Logged-in Users
+###  6.4 Filter Category for Non-Logged-in Users
 As a site user, I want the ability to filter posts based on different categories.
 [Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_4_FIlter%20Category.png)
 
-###  6.6 Comments for Non-Logged-in Users
+###  6.5 Comments for Non-Logged-in Users
 As a site user, I want the ability to leave comments on each post. [Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_5_Comments.png)
+
+###  6.6 Post List for Logged-in Users
+As a site user, I want to be able to view the posts that I create for update or view the post. [Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_6_Post%20List%20for%20Logged-in.png)
 
 ### 6.7 Create Post
 As a site user, I want to be able to create a post to publish on the blog. [Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_7_Create%20Post.png)

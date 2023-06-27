@@ -98,3 +98,37 @@ class PostDetail(DetailView):
     template_name = 'base/post_detail.html'
     context_object_name = 'post'
 
+class AddCommentView(CreateView):
+    model = Comment
+    fields = ['name', 'description']
+    template_name = 'base/add_comment.html'
+    success_url = reverse_lazy('posts-list')
+
+    def form_valid(self, form):
+        form.instance.post_id = self.kwargs['pk']
+
+        # Add success message
+        messages.success(self.request, "Comment added successfully")
+
+        return super().form_valid(form)
+
+
+class CatListView(ListView):
+    fields = '__all__'
+    template_name = 'base/category.html'
+    context_object_name = 'catlist'
+
+    def get_queryset(self):
+        content = {
+            'cat': self.kwargs['category'],
+            'posts': Post.objects.filter(category__id=self.kwargs['category'])
+        }
+        return content
+
+
+def category_data(request):
+    category_data = Category.objects.values('id', 'name')
+    context = {
+        "category_data": category_data,
+    }
+    return context

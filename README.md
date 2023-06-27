@@ -20,40 +20,40 @@ Create a Full-Stack Web Application where travelers can share their journeys, in
 
 
 ## 4. Database Design
-This is the Relational Database used to create the models for the web application. [Database schema]()
+This is the Relational Database used to create the models for the web application. [Database schema](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/3_DB_Schema.jpg)
 
 ## 5. Agile Methodology
 All functionality and development of this project was managed using [Trello]()
 
 ## 6. User stories
 ###  6.1 Register
-As a site user, I want to be able to register on the application in order to publish or update posts. [Wireframe]()
+As a site user, I want to be able to register on the application in order to publish or update posts. [Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_1_Register.png)
 
 ###  6.2 Login
-As a As a site register user, I want to be able to log in to the application in order to publish or update posts. [Wireframe]()
+As a As a site register user, I want to be able to log in to the application in order to publish or update posts. [Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_2_Login.png)
 
-###  6.3 Post List for Non-Logged-in Users
-As a site user, I want to be able to log in to the application in order to publish or update posts. [Wireframe]()
+###  6.3 Home
+As a site user, I want to be able to log in to the application in order to publish or update posts. [Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_3_Home.png)
 
 ###  6.4 Post List for Logged-in Users
-As a site user, I want to be able to view the posts that I create for update or view the post. [Wireframe]()
+As a site user, I want to be able to view the posts that I create for update or view the post. [Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_6_Post%20List%20for%20Logged-in.png)
 
 ###  6.5 Filter Category for Non-Logged-in Users
 As a site user, I want the ability to filter posts based on different categories.
-[Wireframe]()
+[Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_4_FIlter%20Category.png)
 
 ###  6.6 Comments for Non-Logged-in Users
-As a site user, I want the ability to leave comments on each post. [Wireframe]()
+As a site user, I want the ability to leave comments on each post. [Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_5_Comments.png)
 
 ### 6.7 Create Post
-As a site user, I want to be able to create a post to publish on the blog. [Wireframe]()
+As a site user, I want to be able to create a post to publish on the blog. [Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_7_Create%20Post.png)
 
 ### 6.8 Update Post
 As a site user, I want to be able to edit a post and make changes to its fields.
-[Wireframe]()
+[Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_8_UpdatePost.png)
 
 ### 6.9 Delete Post
-As a site user, I want to be able to delete a post so that it no longer appears on the blog. [Wireframe]()
+As a site user, I want to be able to delete a post so that it no longer appears on the blog. [Wireframe](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/6_9_Delete%20Confirm.png)
 
 ## 7. Design Structure
 ### 7.1 Font

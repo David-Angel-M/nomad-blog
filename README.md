@@ -74,13 +74,13 @@ Google font Lato was chosen with to be used across the entire site.
 - Add, Edit/Update are straightforward forms that allow users the use the features with ease.
 
 ## 8. Results
-[Link to the project]()
+[Link to the project](https://nomad-travel-blog-caffc3139c3a.herokuapp.com/)
 
-###  8.1 [Register]()
+###  8.1 [Register](https://nomad-travel-blog-caffc3139c3a.herokuapp.com/register)
 
-###  8.2 [Login]()
+###  8.2 [Login](https://nomad-travel-blog-caffc3139c3a.herokuapp.com/login)
 
-###  8.3 [Main Page]()
+###  8.3 [Main Page](https://nomad-travel-blog-caffc3139c3a.herokuapp.com/)
 
 ###  8.4 [Post List for Logged-in Users]()
 
@@ -102,9 +102,9 @@ Google font Lato was chosen with to be used across the entire site.
 ### 9.2 WAVE Webaim Accessibility testing
 The WAVE tool was used to test all pages on the app. Due to empty social links some common errors were found repeatedly over each tested page,  those were:
 
-- Home page WAVE [Result]()
-- Login page WAVE [Result]()
-- Register page WAVE [Result]()
+- Home page WAVE [Result](https://wave.webaim.org/report#/https://nomad-travel-blog-caffc3139c3a.herokuapp.com/)
+- Login page WAVE [Result](https://wave.webaim.org/report#/https://nomad-travel-blog-caffc3139c3a.herokuapp.com/login)
+- Register page WAVE [Result](https://wave.webaim.org/report#/https://nomad-travel-blog-caffc3139c3a.herokuapp.com/register)
 
 ### 9.3 CSS Validator results
 I use https://jigsaw.w3.org/css-validator/validator.html.en option Validate by direct input the style.css. [Result]()

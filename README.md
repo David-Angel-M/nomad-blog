@@ -96,8 +96,7 @@ Google font Lato was chosen with to be used across the entire site.
 
 ## 9. Testing
 ### 9.1 Lighthouse report
-- Home page [Result]()
-- Login page [Result]()
+- Home page [Result](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/lighthouse%20results.png)
 
 ### 9.2 WAVE Webaim Accessibility testing
 The WAVE tool was used to test all pages on the app. Due to empty social links some common errors were found repeatedly over each tested page,  those were:

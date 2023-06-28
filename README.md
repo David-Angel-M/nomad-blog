@@ -82,17 +82,17 @@ Google font Lato was chosen with to be used across the entire site.
 
 ###  8.3 [Main Page](https://nomad-travel-blog-caffc3139c3a.herokuapp.com/)
 
-###  8.4 [Post List for Logged-in Users]()
+###  8.4 [Post List for Logged-in Users](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/8_4_Login_List.JPG)
 
-###  8.5 [Filter Category for Non-Logged-in Users]()
+###  8.5 [Filter Category for Non-Logged-in Users](https://nomad-travel-blog-caffc3139c3a.herokuapp.com/category/1/)
 
-###  8.6 [Comments for Non-Logged-in Users]()
+###  8.6 [Comments for Non-Logged-in Users](https://nomad-travel-blog-caffc3139c3a.herokuapp.com/post-detail/6/comment/)
 
-### 8.7 [Create Post]()
+### 8.7 [Create Post](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/8_7_PostCreate.JPG)
 
-### 8.8 [Update Post]()
+### 8.8 [Update Post](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/8_8_UpdatePost.JPG)
 
-### 8.9 [Delete Post]()
+### 8.9 [Delete Post](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/8_9_DeletePost.JPG)
 
 ## 9. Testing
 ### 9.1 Lighthouse report

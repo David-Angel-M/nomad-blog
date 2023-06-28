@@ -136,4 +136,9 @@ The site was deployed using Heroku, by following the steps found in the tutorial
 - Enable either "Automatic Deploy"
 
 ## 12. Credits and references
-Travel blog images was taken from https://unsplash.com/
+- Stackoverflow.
+- Student Care.
+- Slack Community.
+- W3Schools.
+- Family and Friends.
+- Travel blog images was taken from https://unsplash.com/

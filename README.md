@@ -107,10 +107,10 @@ The WAVE tool was used to test all pages on the app. Due to empty social links s
 - Register page WAVE [Result](https://wave.webaim.org/report#/https://nomad-travel-blog-caffc3139c3a.herokuapp.com/register)
 
 ### 9.3 CSS Validator results
-I use https://jigsaw.w3.org/css-validator/validator.html.en option Validate by direct input the style.css. [Result]()
+I use https://jigsaw.w3.org/css-validator/validator.html.en option Validate by direct input the style.css. [Result](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/9_3_CSS.JPG)
 
 ### 9.4 HTML Validation
-I use https://validator.w3.org/ option Validate by URI to test html. [Result]()
+I use https://validator.w3.org/ option Validate by URI to test html. [Result](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/9_4_Html_Check.JPG)
 
 ### 9.5 Manual Testing
 During the manual testing phase, I examined the user inputs and functionality of the website. My objective was to compare the feedback and results obtained from testing against the expected outcomes. Any unexpected outputs or outcomes encountered were promptly addressed and resolved.

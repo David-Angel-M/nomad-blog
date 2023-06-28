@@ -23,7 +23,7 @@ Create a Full-Stack Web Application where travelers can share their journeys, in
 This is the Relational Database used to create the models for the web application. [Database schema](https://github.com/David-Angel-M/nomad-blog/blob/main/doc/3_DB_Schema.jpg)
 
 ## 5. Agile Methodology
-All functionality and development of this project was managed using [Trello]()
+All functionality and development of this project was managed using [Trello](https://trello.com/b/bjGo9ZMY/nomad-blog)
 
 ## 6. User stories
 ###  6.1 Register

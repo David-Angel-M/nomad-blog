@@ -142,3 +142,8 @@ The site was deployed using Heroku, by following the steps found in the tutorial
 - W3Schools.
 - Family and Friends.
 - Travel blog images was taken from https://unsplash.com/
+
+## 13. Acknowledgements
+This Travel Blog was created for my PP4 Project for the Full Stack Developer program with Code Institute.
+
+DAVID ANGEL, 2022/2023
